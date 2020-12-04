@@ -6,6 +6,10 @@
 + [Leetcode题解](https://github.com/CyC2018/CS-Notes/)
 + [算法小抄](https://github.com/labuladong/fucking-algorithm)
 
+## 商业
+
++ [自学MBA](https://contentfiesta.com/book-notes/the-personal-mba/)
+
 ## CS经典
 
 + [How to design algorithms](http://htdp.org/2003-09-26/Book/curriculum-Z-H-5.html#node_chap_2)
