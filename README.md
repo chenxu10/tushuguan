@@ -10,6 +10,13 @@
 
 + [自学MBA](https://contentfiesta.com/book-notes/the-personal-mba/)
 
+## 监控资本主义与成瘾性推荐系统
+
++ https://80000hours.org/problem-profiles/#designing-recommender-systems
++ [监控资本主义纪录片](https://m.pangzitv.com/vod-play-id-76710-src-1-num-2.html)
++ [Cal Newport: Why you should quit social media?](https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media?language=en)
++ [Tristan Harris](https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction)
+
 ## CS经典
 
 + [How to design algorithms](http://htdp.org/2003-09-26/Book/curriculum-Z-H-5.html#node_chap_2)
