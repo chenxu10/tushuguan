@@ -1,5 +1,14 @@
 # 我的私人图书馆
 
+## 师友
+
+- hassebq qurenshi(https://haseebq.com/)
+- Sebastian Ruder
+- Jeff Kauffman
+- 阿北
+- [美国信用卡论坛创始人](https://www.physixfan.com/)
+- [张君宝阅微堂](https://zhiqiang.org/)
+
 ## Leetcode
 
 + [Leetcode到底该怎么刷](https://www.cxyxiaowu.com/12344.html)
@@ -31,9 +40,3 @@
 
 + [Summaries for Quantitative Finance](https://www.quantsummaries.com/)
 
-## 师友
-
-+ [hassebq qurenshi](https://haseebq.com/)
-+ [Sebastian Ruder](https://ruder.io/#open)
-+ [Jeff Kauffman](https://www.jefftk.com/p/thanksgiving-and-covid)
-+ [阿北](https://www.douban.com/people/ahbei/)
