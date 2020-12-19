@@ -2,12 +2,13 @@
 
 ## 师友
 
-- hassebq qurenshi(https://haseebq.com/)
+- [Hassebq Qurenshi](https://haseebq.com/)
 - Sebastian Ruder
 - Jeff Kauffman
-- 阿北
+- [豆瓣网创始人阿北](https://www.douban.com/people/ahbei/)
 - [美国信用卡论坛创始人](https://www.physixfan.com/)
 - [张君宝阅微堂](https://zhiqiang.org/)
+- [世界记忆冠军Alex Muller](https://mullenmemory.com/memory-palace)
 
 ## Leetcode
 
