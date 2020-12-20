@@ -10,13 +10,18 @@
 - [张君宝阅微堂](https://zhiqiang.org/)
 - [世界记忆冠军Alex Muller](https://mullenmemory.com/memory-palace)
 
-## Leetcode
+## 统计学商人工具箱
+
+- [Debug faster](https://adv-r.hadley.nz/debugging.html)
+  - Olin library and uris house small waterfall for defensive programming, fail fast and loud
+
+### Leetcode
 
 + [Leetcode到底该怎么刷](https://www.cxyxiaowu.com/12344.html)
 + [Leetcode题解](https://github.com/CyC2018/CS-Notes/)
 + [算法小抄](https://github.com/labuladong/fucking-algorithm)
 
-## 商业
+### 商业
 
 + [自学MBA](https://contentfiesta.com/book-notes/the-personal-mba/)
 
