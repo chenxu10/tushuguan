@@ -3,8 +3,9 @@
 ## 师友
 
 - [Hassebq Qurenshi](https://haseebq.com/)
-- Sebastian Ruder
-- Jeff Kauffman
+- [Sebastian Ruder](https://ruder.io/)
+- [Jeff Kauffman](https://www.jefftk.com/giving)
+- [Mad Fientist](https://www.madfientist.com/archives)
 - [豆瓣网创始人阿北](https://www.douban.com/people/ahbei/)
 - [美国信用卡论坛创始人](https://www.physixfan.com/)
 - [张君宝阅微堂](https://zhiqiang.org/)
@@ -48,4 +49,5 @@
 ## 量化金融套利
 
 + [Summaries for Quantitative Finance](https://www.quantsummaries.com/)
-
++ [The Psychology of Money](https://mentalpivot.com/book-notes-the-psychology-of-money-by-morgan-housel/)
++ [Lifecycle Investing](https://tolusnotes.com/lifecycle-investing-the-new-free-lunch/)
