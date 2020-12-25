@@ -25,8 +25,11 @@
 
 + [自学MBA](https://contentfiesta.com/book-notes/the-personal-mba/)
 
-## 监控资本主义与成瘾性推荐系统
+## 行为改变、监控资本主义与成瘾性推荐系统
 
++ [Tiny Habits](https://www.tinyhabits.com/)
++ [Atomic Habits](https://www.nateliason.com/notes/atomic-habits-james-clear)
++ [Invisible Influence](https://book.douban.com/subject/26803655/)
 + https://80000hours.org/problem-profiles/#designing-recommender-systems
 + [监控资本主义纪录片](https://m.pangzitv.com/vod-play-id-76710-src-1-num-2.html)
 + [Cal Newport: Why you should quit social media?](https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media?language=en)
