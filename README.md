@@ -13,8 +13,13 @@
 
 ## 统计学商人工具箱
 
+#### Debugging
+
 - [Debug faster](https://adv-r.hadley.nz/debugging.html)
   - Olin library and uris house small waterfall for defensive programming, fail fast and loud
+- [Meta Questions of Bad Questions](https://meta.stackexchange.com/questions/59991/what-are-the-top-issues-when-it-comes-to-low-quality-questions)
+- [How to debug small programs?](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
+- [How to not ask stupid questions to peers?](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md#%E5%A5%BD%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A0%A2%E9%97%AE%E9%A2%98)
 
 ### Leetcode
 
