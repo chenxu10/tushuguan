@@ -22,6 +22,10 @@
 - [How to debug small programs?](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
 - [How to not ask stupid questions to peers?](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md#%E5%A5%BD%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A0%A2%E9%97%AE%E9%A2%98)
 
+#### Senior Data Scientist and Building up a DS Team
+- [Hiring for data scientist](http://www.terran.us/talks/201808_successful_project.pdf)
+- [What do machine learning practitioners actually do?](https://www.fast.ai/2018/07/12/auto-ml-1/)
+
 ### Leetcode
 
 + [Leetcode到底该怎么刷](https://www.cxyxiaowu.com/12344.html)
