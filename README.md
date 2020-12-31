@@ -62,3 +62,6 @@
 + [The Psychology of Money](https://mentalpivot.com/book-notes-the-psychology-of-money-by-morgan-housel/)
 + [Lifecycle Investing](https://tolusnotes.com/lifecycle-investing-the-new-free-lunch/)
 + [通往财务自由之路](https://wizardforcel.gitbooks.io/the-way-to-wealth-freedom-notes/content/2.html)
+
+## 认知和实验心理学
++ [Cognitive Psychology](http://jim.shamlin.com/study/books/4219/)
