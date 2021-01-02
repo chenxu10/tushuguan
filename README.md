@@ -36,7 +36,7 @@
 
 + [自学MBA](https://contentfiesta.com/book-notes/the-personal-mba/)
 
-## 行为改变、监控资本主义与成瘾性推荐系统
+## 行为改变、监控资本主义与推荐系统
 
 + [Tiny Habits](https://www.tinyhabits.com/)
 + [Atomic Habits](https://www.nateliason.com/notes/atomic-habits-james-clear)
@@ -45,6 +45,8 @@
 + [监控资本主义纪录片](https://m.pangzitv.com/vod-play-id-76710-src-1-num-2.html)
 + [Cal Newport: Why you should quit social media?](https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media?language=en)
 + [Tristan Harris](https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction)
++ [Make To Stick](http://brbu241.blogspot.com/2015/12/made-to-stick-why-some-ideas-survive.html)
++ [Don't make me think](https://zhuanlan.zhihu.com/p/53085161)
 
 ## CS经典
 
@@ -58,6 +60,7 @@
 
 ## 量化金融套利
 
++ [制定并执行交易策略的六个步骤](https://us.etrade.com/knowledge/advanced-trading/how-to-trade-options)
 + [Summaries for Quantitative Finance](https://www.quantsummaries.com/)
 + [The Psychology of Money](https://mentalpivot.com/book-notes-the-psychology-of-money-by-morgan-housel/)
 + [Lifecycle Investing](https://tolusnotes.com/lifecycle-investing-the-new-free-lunch/)
