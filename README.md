@@ -14,6 +14,7 @@
 ## SWE三个月投资
 
 + [3 Month Coding Interview Preparation Bootcamp](https://medium.com/educative/3-month-coding-interview-bootcamp-904422926ce8)
+  - [week12:oop design interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
 
 ## 统计学商人工具箱
 
