@@ -11,6 +11,10 @@
 - [张君宝阅微堂](https://zhiqiang.org/)
 - [世界记忆冠军Alex Muller](https://mullenmemory.com/memory-palace)
 
+## SWE三个月投资
+
++ [3 Month Coding Interview Preparation Bootcamp](https://medium.com/educative/3-month-coding-interview-bootcamp-904422926ce8)
+
 ## 统计学商人工具箱
 
 #### Debugging
