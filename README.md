@@ -31,12 +31,9 @@
 - [Hiring for data scientist](http://www.terran.us/talks/201808_successful_project.pdf)
 - [What do machine learning practitioners actually do?](https://www.fast.ai/2018/07/12/auto-ml-1/)
 
-### Interview Experience
+### Interview Experience and Problem Solving
 
 + [小士刀的面试刷题笔记](https://wdxtub.com/interview/index.html)
-
-### Leetcode
-
 + [Leetcode到底该怎么刷](https://www.cxyxiaowu.com/12344.html)
 + [Leetcode题解](https://github.com/CyC2018/CS-Notes/)
 + [算法小抄](https://github.com/labuladong/fucking-algorithm)
