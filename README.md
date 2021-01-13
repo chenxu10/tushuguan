@@ -37,6 +37,7 @@
 + [Leetcode到底该怎么刷](https://www.cxyxiaowu.com/12344.html)
 + [Leetcode题解](https://github.com/CyC2018/CS-Notes/)
 + [算法小抄](https://github.com/labuladong/fucking-algorithm)
++ [Resources to Get into FAANG](https://towardsdatascience.com/these-are-all-the-resources-that-help-me-land-a-fang-job-452341dd6bed)
 
 ### 商业
 
