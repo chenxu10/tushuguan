@@ -13,8 +13,11 @@
 
 ## SWE三个月投资
 
++ [解题训练的WorkFlow(Leetcode/Math/Interview/训练到力竭)](https://haseebq.com/cracking-the-coding-bootcamp-the-definitive-guide/)
 + [3 Month Coding Interview Preparation Bootcamp](https://medium.com/educative/3-month-coding-interview-bootcamp-904422926ce8)
   - [week12:oop design interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
+    + [SOLID Principles](https://medium.com/@dorela/s-o-l-i-d-principles-explained-in-python-with-examples-3332520b90ff)
+  - [MIT pratical courses missed in school](https://missing.csail.mit.edu/2020/metaprogramming/)
 
 ## 统计学商人工具箱
 
@@ -38,6 +41,8 @@
 + [Leetcode题解](https://github.com/CyC2018/CS-Notes/)
 + [算法小抄](https://github.com/labuladong/fucking-algorithm)
 + [Resources to Get into FAANG](https://towardsdatascience.com/these-are-all-the-resources-that-help-me-land-a-fang-job-452341dd6bed)
++ [The Straight Path to FAANG](https://medium.com/dev-genius/the-straight-path-to-faang-63c6c981fdb5)
++ [FAANG励志故事](https://www.teamblind.com/post/How-I-got-into-FAANG-FpwTWHuo)
 
 ### 商业
 
