@@ -1,6 +1,6 @@
 # 我的私人图书馆
 
-## 师友
+## Mental Coach
 
 - [Hassebq Qurenshi](https://haseebq.com/)
 - [Sebastian Ruder](https://ruder.io/)
@@ -27,6 +27,10 @@
   + Find every possibility to teach
 + [Learning how to learn](https://workflowy.com/s/E9HW.jGUYboLrGj)
 + [How to benefit from stress and gain power instead of being ruined by it](https://billmei.net/blog/fitness)
+
+## How to sell your skillsets?
+
++ [Networking-Information Interview-Follow Up](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
 
 ## SWE三个月投资
 
@@ -60,6 +64,7 @@
 + [Resources to Get into FAANG](https://towardsdatascience.com/these-are-all-the-resources-that-help-me-land-a-fang-job-452341dd6bed)
 + [The Straight Path to FAANG](https://medium.com/dev-genius/the-straight-path-to-faang-63c6c981fdb5)
 + [FAANG励志故事](https://www.teamblind.com/post/How-I-got-into-FAANG-FpwTWHuo)
++ [Algorithm of algorithm](https://medium.com/outco/the-algorithm-of-an-algorithm-28043fe47b51)
 
 ### 商业
 
