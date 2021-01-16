@@ -10,6 +10,23 @@
 - [美国信用卡论坛创始人](https://www.physixfan.com/)
 - [张君宝阅微堂](https://zhiqiang.org/)
 - [世界记忆冠军Alex Muller](https://mullenmemory.com/memory-palace)
+- [Bill Mei Book Shelf](https://billmei.net/)
+
+## Learning Hard Things In Real Word
+
++ [How to learn programming](https://www.yangzhiping.com/psy/learn-coding.html)
+  + Read official documentation instead of the second-hand materials
+  + Separate language syntax with problem solving
+  + Use implementation intention to hack your own motivation
+  + Join the community
++ [The Hard Thing About Leaning Hard Things](https://haseebq.com/the-hard-thing-about-learning-hard-things/)
+  + Don't afriad to look stupid
+  + Ask the follow-up question
+  + Leverage your strength and build your confidence
+  + Immerse
+  + Find every possibility to teach
++ [Learning how to learn](https://workflowy.com/s/E9HW.jGUYboLrGj)
++ [How to benefit from stress and gain power instead of being ruined by it](https://billmei.net/blog/fitness)
 
 ## SWE三个月投资
 
