@@ -31,6 +31,9 @@
 ## How to sell your skillsets?
 
 + [Networking-Information Interview-Follow Up](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
++ Sales Pitch First and Implementation Second. 
+  - Sell your skillsets imagine you're doing an elevator speech.
+  - Emphasize on why your experience can bring value to the position.
 
 ## SWE三个月投资
 
