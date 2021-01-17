@@ -45,7 +45,7 @@
 + [3 Month Coding Interview Preparation Bootcamp](https://medium.com/educative/3-month-coding-interview-bootcamp-904422926ce8)
   - [week12:oop design interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
     + [SOLID Principles](https://medium.com/@dorela/s-o-l-i-d-principles-explained-in-python-with-examples-3332520b90ff)
-  - [week11:multithreading and concurrency](https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
+  - [week11:multithreading and concurrency](https://www.educative.io/courses/python-concurrency-for-senior-engineering-interviews/3YxBZ1jAyAA)
   - [MIT pratical courses missed in school](https://missing.csail.mit.edu/2020/metaprogramming/)
 
 ## 统计学商人工具箱
