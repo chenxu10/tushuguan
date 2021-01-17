@@ -10,10 +10,12 @@
 - [美国信用卡论坛创始人](https://www.physixfan.com/)
 - [张君宝阅微堂](https://zhiqiang.org/)
 - [世界记忆冠军Alex Muller](https://mullenmemory.com/memory-palace)
+- [Yihui Xie](https://yihui.org/cn/2020/07/principles-notes/)
 - [Bill Mei Book Shelf](https://billmei.net/)
 
 ## Learning Hard Things In Real Word
 
++ [My Structured Way Approaching Hard Problems]()
 + [How to learn programming](https://www.yangzhiping.com/psy/learn-coding.html)
   + Read official documentation instead of the second-hand materials
   + Separate language syntax with problem solving
@@ -34,6 +36,8 @@
 + Sales Pitch First and Implementation Second. 
   - Sell your skillsets imagine you're doing an elevator speech.
   - Emphasize on why your experience can bring value to the position.
++ [How to ask for an introduction?](https://80000hours.org/articles/email-scripts/#tim-ferriss)
++ How to set up an information interview?
 
 ## SWE三个月投资
 
@@ -41,6 +45,7 @@
 + [3 Month Coding Interview Preparation Bootcamp](https://medium.com/educative/3-month-coding-interview-bootcamp-904422926ce8)
   - [week12:oop design interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
     + [SOLID Principles](https://medium.com/@dorela/s-o-l-i-d-principles-explained-in-python-with-examples-3332520b90ff)
+  - [week11:multithreading and concurrency](https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
   - [MIT pratical courses missed in school](https://missing.csail.mit.edu/2020/metaprogramming/)
 
 ## 统计学商人工具箱
