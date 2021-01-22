@@ -16,6 +16,7 @@
 ## Learning Hard Things In Real Word
 
 + [My Structured Way Approaching Hard Problems]()
++ [My Structured Way of Improving Solving Problems by Coding](https://github.com/chenxu10/swe_investment_course/blob/main/tipsandtricks/pbsv.md)
 + [How to learn programming](https://www.yangzhiping.com/psy/learn-coding.html)
   + Read official documentation instead of the second-hand materials
   + Separate language syntax with problem solving
