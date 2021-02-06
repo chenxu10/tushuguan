@@ -77,7 +77,7 @@
 
 + [Personal MBA](https://contentfiesta.com/book-notes/the-personal-mba/)
 
-## Recommendation System and Survillance Capitalism
+## Recommendation System and Survelliance Capitalism
 
 + [Tiny Habits](https://www.tinyhabits.com/)
 + [Atomic Habits](https://www.nateliason.com/notes/atomic-habits-james-clear)
