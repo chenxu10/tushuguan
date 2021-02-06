@@ -1,4 +1,4 @@
-# 我的私人图书馆
+# My Kingdom
 
 ## Mental Coach
 
@@ -40,13 +40,13 @@
 + [How to ask for an introduction?](https://80000hours.org/articles/email-scripts/#tim-ferriss)
 + How to set up an information interview?
 
-## SWE三个月投资
+## SWE Enterpreneurship 
 
 + [解题训练的WorkFlow(Leetcode/Math/Interview/训练到力竭)](https://haseebq.com/cracking-the-coding-bootcamp-the-definitive-guide/)
 + [3 Month Coding Interview Preparation Bootcamp](https://medium.com/educative/3-month-coding-interview-bootcamp-904422926ce8)
   + [Extensive Materials](https://github.com/chenxu10/3monthsweinvestment)
 
-## 统计学商人工具箱
+## Statistical Businessman
 
 #### Debugging
 
@@ -56,6 +56,7 @@
   - The first principe: read it aloud and now response as if you are the one to answer it
 - [How to debug small programs?](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
 - [How to not ask stupid questions to peers?](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md#%E5%A5%BD%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A0%A2%E9%97%AE%E9%A2%98)
+- [Fraud Detection in Insurance Industry](https://trenton3983.github.io/files/projects/2019-07-19_fraud_detection_python/2019-07-19_fraud_detection_python.html)
 
 #### Senior Data Scientist and Building up a DS Team
 - [Hiring for data scientist](http://www.terran.us/talks/201808_successful_project.pdf)
@@ -72,11 +73,11 @@
 + [FAANG励志故事](https://www.teamblind.com/post/How-I-got-into-FAANG-FpwTWHuo)
 + [Algorithm of algorithm](https://medium.com/outco/the-algorithm-of-an-algorithm-28043fe47b51)
 
-### 商业
+### Business
 
-+ [自学MBA](https://contentfiesta.com/book-notes/the-personal-mba/)
++ [Personal MBA](https://contentfiesta.com/book-notes/the-personal-mba/)
 
-## 行为改变、监控资本主义与推荐系统
+## Recommendation System and Survillance Capitalism
 
 + [Tiny Habits](https://www.tinyhabits.com/)
 + [Atomic Habits](https://www.nateliason.com/notes/atomic-habits-james-clear)
@@ -88,17 +89,18 @@
 + [Make To Stick](http://brbu241.blogspot.com/2015/12/made-to-stick-why-some-ideas-survive.html)
 + [Don't make me think](https://zhuanlan.zhihu.com/p/53085161)
 
-## CS经典
+## CS Classics
 
++ [Distributed System for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
 + [How to design algorithms](http://htdp.org/2003-09-26/Book/curriculum-Z-H-5.html#node_chap_2)
-
 + [cs61a](https://cs61a.org/)
++ [Software Engineering Blog List](https://github.com/kilimchoi/engineering-blogs#n-technologies)
 
-## 统计学经典
+## Statistics Classics
 
 + [统计学好书推荐](https://www.zhihu.com/question/20757000)
 
-## 量化金融套利
+## Quant
 
 + [制定并执行交易策略的六个步骤](https://us.etrade.com/knowledge/advanced-trading/how-to-trade-options)
 + [Summaries for Quantitative Finance](https://www.quantsummaries.com/)
@@ -106,5 +108,5 @@
 + [Lifecycle Investing](https://tolusnotes.com/lifecycle-investing-the-new-free-lunch/)
 + [通往财务自由之路](https://wizardforcel.gitbooks.io/the-way-to-wealth-freedom-notes/content/2.html)
 
-## 认知和实验心理学
+## Coginitive Psychology
 + [Cognitive Psychology](http://jim.shamlin.com/study/books/4219/)
