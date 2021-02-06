@@ -12,6 +12,7 @@
 - [世界记忆冠军Alex Muller](https://mullenmemory.com/memory-palace)
 - [Yihui Xie](https://yihui.org/cn/2020/07/principles-notes/)
 - [Bill Mei Book Shelf](https://billmei.net/)
+- [Lean Deep](https://leandeep.com/)
 
 ## Learning Hard Things In Real Word
 
