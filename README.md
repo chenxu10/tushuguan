@@ -63,6 +63,10 @@
 - [Hiring for data scientist](http://www.terran.us/talks/201808_successful_project.pdf)
 - [What do machine learning practitioners actually do?](https://www.fast.ai/2018/07/12/auto-ml-1/)
 
+### Practical Developer
+
++ [程序员修炼之道读书笔记](https://iswade.github.io/notes/pragmatic_programmer/#_9)
+
 ### Interview Experience and Problem Solving
 
 + [小士刀的面试刷题笔记](https://wdxtub.com/interview/index.html)
