@@ -65,7 +65,10 @@
 
 ### Practical Developer
 
++ [程序员健康指南](https://github.com/L1nwatch/it_people_healthy)
 + [程序员修炼之道读书笔记](https://iswade.github.io/notes/pragmatic_programmer/#_9)
++ [程序员思维修炼之道](https://shenlvmeng.github.io/blog/2020/05/31/pragmatic-thinking-and-learning/)
++ [高效程序员的45个习惯](https://book.douban.com/subject/4164024/)
 
 ### Interview Experience and Problem Solving
 
@@ -107,6 +110,10 @@
 
 ## Quant
 
++ Nassim Taleb
+  + [Black Swam](https://www.nateliason.com/notes/black-swan-nassim-nicholas-taleb)
+  + [Anti-fragile](https://www.nateliason.com/notes/antifragile)
+  + [Skin in the game](https://www.nateliason.com/notes/skin-in-the-game-by-nassim-taleb)
 + [制定并执行交易策略的六个步骤](https://us.etrade.com/knowledge/advanced-trading/how-to-trade-options)
 + [Summaries for Quantitative Finance](https://www.quantsummaries.com/)
 + [The Psychology of Money](https://mentalpivot.com/book-notes-the-psychology-of-money-by-morgan-housel/)
