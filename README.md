@@ -103,9 +103,11 @@
 + [How to design algorithms](http://htdp.org/2003-09-26/Book/curriculum-Z-H-5.html#node_chap_2)
 + [cs61a](https://cs61a.org/)
 + [Software Engineering Blog List](https://github.com/kilimchoi/engineering-blogs#n-technologies)
++ [Algorithms to live by](https://jsilva.blog/2019/02/05/algorithms-book-summary/)
 
 ## Statistics Classics
 
++ [How to solve it](https://math.berkeley.edu/~gmelvin/polya.pdf)
 + [统计学好书推荐](https://www.zhihu.com/question/20757000)
 
 ## Quant
@@ -122,3 +124,8 @@
 
 ## Coginitive Psychology
 + [Cognitive Psychology](http://jim.shamlin.com/study/books/4219/)
+
+## Religion
+
++ [Why Buddhism is True](https://vialogue.wordpress.com/2018/10/13/why-buddhism-is-true-review-notes/)
+
