@@ -110,9 +110,11 @@
 + [How to solve it](https://math.berkeley.edu/~gmelvin/polya.pdf)
 + [统计学好书推荐](https://www.zhihu.com/question/20757000)
 
-## Quant
+## Investment
 
 + Nassim Taleb
+  + [Statistical Consequences of Fat Tails](https://arxiv.org/abs/2001.10488)
+  + [Dynamic Hedging]()
   + [Black Swam](https://www.nateliason.com/notes/black-swan-nassim-nicholas-taleb)
   + [Anti-fragile](https://www.nateliason.com/notes/antifragile)
   + [Skin in the game](https://www.nateliason.com/notes/skin-in-the-game-by-nassim-taleb)
@@ -121,6 +123,7 @@
 + [The Psychology of Money](https://mentalpivot.com/book-notes-the-psychology-of-money-by-morgan-housel/)
 + [Lifecycle Investing](https://tolusnotes.com/lifecycle-investing-the-new-free-lunch/)
 + [通往财务自由之路](https://wizardforcel.gitbooks.io/the-way-to-wealth-freedom-notes/content/2.html)
++ [How to invest in real estates](https://learn.roofstock.com/blog/ultimate-beginners-guide-to-real-estate-investing)
 
 ## Coginitive Psychology
 + [Cognitive Psychology](http://jim.shamlin.com/study/books/4219/)
