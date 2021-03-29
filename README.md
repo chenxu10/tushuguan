@@ -13,6 +13,7 @@
 - [Yihui Xie](https://yihui.org/cn/2020/07/principles-notes/)
 - [Bill Mei Book Shelf](https://billmei.net/)
 - [Lean Deep](https://leandeep.com/)
+- [陈中华](https://www.rzql.gov.cn/cont-225.html)
 
 ## Learning Hard Things In Real Word
 
@@ -127,8 +128,27 @@
 
 ## Coginitive Psychology
 + [Cognitive Psychology](http://jim.shamlin.com/study/books/4219/)
++ [超负荷的大脑](https://book.douban.com/subject/26819410/)
+
+## Etymology
+
++ [汉字词源](https://hanziyuan.net/)
++ [English Etymology](https://www.etymonline.com/)
+
+## Medicine
+
++ [Psychological functions of muscles](https://www.bodynamicusa.com/theory/psychological-muscle-functions/)
 
 ## Religion
 
 + [Why Buddhism is True](https://vialogue.wordpress.com/2018/10/13/why-buddhism-is-true-review-notes/)
++ [大念住经](https://zhuanlan.zhihu.com/p/53768064)
++ [禅密要法](https://zh.m.wikisource.org/zh-hans/%E7%A6%AA%E7%A5%95%E8%A6%81%E6%B3%95%E7%B6%93/%E5%8D%B7%E4%B8%8A)
+
+## 经典
+
+- [老子](https://zh.m.wikisource.org/zh/%E8%80%81%E5%AD%90_(%E5%8C%AF%E6%A0%A1%E7%89%88))
+- [阴符经](https://zh.m.wikisource.org/zh-hans/%E9%BB%83%E5%B8%9D%E9%99%B0%E7%AC%A6%E7%B6%93)
+- [孙子兵法](https://zh.m.wikisource.org/zh/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95)
+- [战国策](http://www.cngdwx.com/yiwenshangxi/zhanguocebaihuayiwen/29276.html)
 
