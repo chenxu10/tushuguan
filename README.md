@@ -1,5 +1,10 @@
 # My Kingdom
 
+## Meta Library
+
++ [附近的图书馆](https://www.worldcat.org/)
++ [陌生世界的搜索引钥匙]()
+
 ## Mental Coach
 
 - [Hassebq Qurenshi](https://haseebq.com/)
@@ -102,6 +107,7 @@
 
 + [Distributed System for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
 + [How to design algorithms](http://htdp.org/2003-09-26/Book/curriculum-Z-H-5.html#node_chap_2)
++ [How to be a good programmer](https://github.com/niudai/How-to-be-a-good-programmer)
 + [cs61a](https://cs61a.org/)
 + [Software Engineering Blog List](https://github.com/kilimchoi/engineering-blogs#n-technologies)
 + [Algorithms to live by](https://jsilva.blog/2019/02/05/algorithms-book-summary/)
