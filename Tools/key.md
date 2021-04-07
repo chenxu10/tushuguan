@@ -98,10 +98,11 @@
 
 等等等等，你会发现新世界在你面前缓缓打开。
 
-## 新手和专家对比
+## 对比与时间是压力函数
 
 + "Amateur" "Professional" "Trading" "Mindset" "Skillset"
-+ "Classics" 
++ "Classics" "Booklists"
++ "History of XXX"
 
 Suck in, practice。破门而入，翻窗进夜店玩耍吧。
 

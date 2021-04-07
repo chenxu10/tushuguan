@@ -3,7 +3,7 @@
 ## Meta Library
 
 + [附近的图书馆](https://www.worldcat.org/)
-+ [陌生世界的搜索引钥匙]()
++ [陌生世界的搜索引钥匙](https://github.com/chenxu10/Tushuguan/blob/master/Tools/key.md)
 
 ## Mental Coach
 
