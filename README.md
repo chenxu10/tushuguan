@@ -4,8 +4,8 @@
 
 + [附近的图书馆](https://www.worldcat.org/)
 + [陌生世界的搜索引钥匙](https://github.com/chenxu10/Tushuguan/blob/master/Meta/key.md)
-+ [How to write]((https://github.com/chenxu10/Tushuguan/blob/master/Meta/write.md))
-+ [How to read]((https://github.com/chenxu10/Tushuguan/blob/master/Meta/read.md))
++ [How to write](https://github.com/chenxu10/Tushuguan/blob/master/Meta/write.md)
++ [How to read](https://github.com/chenxu10/Tushuguan/blob/master/Meta/read.md)
 
 ## Mental Coach
 
