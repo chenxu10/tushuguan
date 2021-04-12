@@ -1,9 +1,11 @@
 # My Kingdom
 
-## Meta Library
+## Meta Library and Skills
 
 + [附近的图书馆](https://www.worldcat.org/)
-+ [陌生世界的搜索引钥匙](https://github.com/chenxu10/Tushuguan/blob/master/Tools/key.md)
++ [陌生世界的搜索引钥匙](https://github.com/chenxu10/Tushuguan/blob/master/Meta/key.md)
++ [How to write]((https://github.com/chenxu10/Tushuguan/blob/master/Meta/write.md))
++ [How to read]((https://github.com/chenxu10/Tushuguan/blob/master/Meta/read.md))
 
 ## Mental Coach
 
