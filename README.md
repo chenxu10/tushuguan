@@ -93,9 +93,11 @@
 
 + [Personal MBA](https://contentfiesta.com/book-notes/the-personal-mba/)
 
-## Recommendation System and Survelliance Capitalism
+## Behavior and Habits Change
 
 + [Tiny Habits](https://www.tinyhabits.com/)
+  - https://mentalpivot.com/book-notes-tiny-habits-by-bj-fogg/
+  - https://www.samuelthomasdavies.com/book-summaries/self-help/tiny-habits/
 + [Atomic Habits](https://www.nateliason.com/notes/atomic-habits-james-clear)
 + [Invisible Influence](https://book.douban.com/subject/26803655/)
 + https://80000hours.org/problem-profiles/#designing-recommender-systems
@@ -107,6 +109,9 @@
 
 ## CS Classics
 
++ [计算机自学指南](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
++ [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc)
++ [https://haseebq.com/the-authoritative-guide-to-blockchain-development/](https://haseebq.com/the-authoritative-guide-to-blockchain-development/)
 + [Distributed System for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
 + [How to design algorithms](http://htdp.org/2003-09-26/Book/curriculum-Z-H-5.html#node_chap_2)
 + [How to be a good programmer](https://github.com/niudai/How-to-be-a-good-programmer)
