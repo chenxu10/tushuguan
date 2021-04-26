@@ -95,6 +95,7 @@
 
 ## Behavior and Habits Change
 
++ [Switch](https://github.com/mgp/book-notes/blob/master/switch-how-to-change-things-when-change-is-hard.markdown)
 + [Tiny Habits](https://www.tinyhabits.com/)
   - https://mentalpivot.com/book-notes-tiny-habits-by-bj-fogg/
   - https://www.samuelthomasdavies.com/book-summaries/self-help/tiny-habits/
