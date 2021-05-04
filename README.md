@@ -6,6 +6,7 @@
 + [陌生世界的搜索引钥匙](https://github.com/chenxu10/Tushuguan/blob/master/Meta/key.md)
 + [How to write](https://github.com/chenxu10/Tushuguan/blob/master/Meta/write.md)
 + [How to read](https://github.com/chenxu10/Tushuguan/blob/master/Meta/read.md)
++ [开智正典](https://www.douban.com/doulist/41691053/)
 
 ## Mental Coach
 
@@ -140,8 +141,9 @@
 + [通往财务自由之路](https://wizardforcel.gitbooks.io/the-way-to-wealth-freedom-notes/content/2.html)
 + [How to invest in real estates](https://learn.roofstock.com/blog/ultimate-beginners-guide-to-real-estate-investing)
 
-## Coginitive Psychology
-+ [Cognitive Psychology](http://jim.shamlin.com/study/books/4219/)
+## Coginitive Psychology - Education Practice
++ [Robert Bjork Learning and Forgetting Lab](https://bjorklab.psych.ucla.edu/research/)
++ [Cognitive Psychology Text Book](http://jim.shamlin.com/study/books/4219/)
 + [超负荷的大脑](https://book.douban.com/subject/26819410/)
 
 ## Etymology
