@@ -1,12 +1,15 @@
 # My Kingdom
 
-## Meta Library and Skills
+## 信息的上游与源头
 
++ [Scientometrics](https://www.youtube.com/watch?v=GW4s58u8PZo)
 + [附近的图书馆](https://www.worldcat.org/)
 + [陌生世界的搜索引钥匙](https://github.com/chenxu10/Tushuguan/blob/master/Meta/key.md)
 + [How to write](https://github.com/chenxu10/Tushuguan/blob/master/Meta/write.md)
 + [How to read](https://github.com/chenxu10/Tushuguan/blob/master/Meta/read.md)
 + [开智正典](https://www.douban.com/doulist/41691053/)
++ [Citespace](http://cluster.cis.drexel.edu/~cchen/citespace/)
++ [Academic Tree](https://academictree.org/)
 
 ## Mental Coach
 
@@ -144,6 +147,7 @@
 ## Coginitive Psychology - Education Practice
 + [Robert Bjork Learning and Forgetting Lab](https://bjorklab.psych.ucla.edu/research/)
 + [Cognitive Psychology Text Book](http://jim.shamlin.com/study/books/4219/)
++ [Top Labs in Memory Research](http://github.com/heshexian1/OpenMindClass/issues/16)
 + [超负荷的大脑](https://book.douban.com/subject/26819410/)
 
 ## Etymology
@@ -158,7 +162,7 @@
 ## Religion
 
 + [Why Buddhism is True](https://vialogue.wordpress.com/2018/10/13/why-buddhism-is-true-review-notes/)
-+ [大念住经](https://zhuanlan.zhihu.com/p/53768064)
++ [大念处经](https://zhuanlan.zhihu.com/p/53768064)
 + [禅密要法](https://zh.m.wikisource.org/zh-hans/%E7%A6%AA%E7%A5%95%E8%A6%81%E6%B3%95%E7%B6%93/%E5%8D%B7%E4%B8%8A)
 
 ## 经典
