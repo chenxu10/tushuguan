@@ -147,7 +147,7 @@
 ## Coginitive Psychology - Education Practice
 + [Robert Bjork Learning and Forgetting Lab](https://bjorklab.psych.ucla.edu/research/)
 + [Cognitive Psychology Text Book](http://jim.shamlin.com/study/books/4219/)
-+ [Top Labs in Memory Research](http://github.com/heshexian1/OpenMindClass/issues/16)
++ [Top Labs in Memory Research](http://github.com/heshenxian1/OpenMindClass/issues/16)
 + [超负荷的大脑](https://book.douban.com/subject/26819410/)
 
 ## Etymology
