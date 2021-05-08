@@ -1,6 +1,11 @@
 # My Kingdom
 
-## 信息的上游与源头
+## 目录
+- [信息的制高点](#信息的制高点)
+- [大师](#大师)
+- [学习如何学习](#学习如何学习)
+
+## 信息的制高点
 
 + [Scientometrics](https://www.youtube.com/watch?v=GW4s58u8PZo)
 + [附近的图书馆](https://www.worldcat.org/)
@@ -10,8 +15,9 @@
 + [开智正典](https://www.douban.com/doulist/41691053/)
 + [Citespace](http://cluster.cis.drexel.edu/~cchen/citespace/)
 + [Academic Tree](https://academictree.org/)
++ [Open Courses](https://libguides.humboldt.edu/openedu/kins)
 
-## Mental Coach
+## 大师
 
 - [Hassebq Qurenshi](https://haseebq.com/)
 - [Sebastian Ruder](https://ruder.io/)
@@ -26,9 +32,12 @@
 - [Lean Deep](https://leandeep.com/)
 - [陈中华](https://www.rzql.gov.cn/cont-225.html)
 
-## Learning Hard Things In Real Word
-
-+ [My Structured Way Approaching Hard Problems]()
+## 学习如何学习
++ [Robert Bjork Learning and Forgetting Lab](https://bjorklab.psych.ucla.edu/research/)
++ [Cognitive Psychology Text Book](http://jim.shamlin.com/study/books/4219/)
++ [Top Labs in Memory Research](http://github.com/heshenxian1/OpenMindClass/issues/16)
++ [超负荷的大脑](https://book.douban.com/subject/26819410/)
++ [My Structured Way Approaching Hard Problems]
 + [My Structured Way of Improving Solving Problems by Coding](https://github.com/chenxu10/swe_investment_course/blob/main/tipsandtricks/pbsv.md)
 + [How to learn programming](https://www.yangzhiping.com/psy/learn-coding.html)
   + Read official documentation instead of the second-hand materials
@@ -143,12 +152,6 @@
 + [Lifecycle Investing](https://tolusnotes.com/lifecycle-investing-the-new-free-lunch/)
 + [通往财务自由之路](https://wizardforcel.gitbooks.io/the-way-to-wealth-freedom-notes/content/2.html)
 + [How to invest in real estates](https://learn.roofstock.com/blog/ultimate-beginners-guide-to-real-estate-investing)
-
-## Coginitive Psychology - Education Practice
-+ [Robert Bjork Learning and Forgetting Lab](https://bjorklab.psych.ucla.edu/research/)
-+ [Cognitive Psychology Text Book](http://jim.shamlin.com/study/books/4219/)
-+ [Top Labs in Memory Research](http://github.com/heshenxian1/OpenMindClass/issues/16)
-+ [超负荷的大脑](https://book.douban.com/subject/26819410/)
 
 ## Etymology
 
