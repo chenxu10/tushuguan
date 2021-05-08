@@ -3,7 +3,8 @@
 ## 目录
 - [信息的制高点](#信息的制高点)
 - [大师](#大师)
-- [学习如何学习](#学习如何学习)
+- [学习如何学习/认知心理学](#学习如何学习)
+- [How-to-knowledge/计算机科学](#计算机科学)
 
 ## 信息的制高点
 
@@ -121,7 +122,7 @@
 + [Make To Stick](http://brbu241.blogspot.com/2015/12/made-to-stick-why-some-ideas-survive.html)
 + [Don't make me think](https://zhuanlan.zhihu.com/p/53085161)
 
-## CS Classics
+## 计算机科学
 
 + [计算机自学指南](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 + [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc)
