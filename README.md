@@ -2,9 +2,11 @@
 
 ## 目录
 - [信息的制高点](#信息的制高点)
-- [大师](#大师)
+- [大师与牛人](#大师与牛人)
 - [学习如何学习/认知心理学](#学习如何学习)
 - [How-to-knowledge/计算机科学](#计算机科学)
+- [杜克大学物理治疗博士课程目录](https://dpt.duhs.duke.edu/education/academics/curriculum)
+- [量化金融](FinancialEngineering)
 
 ## 信息的制高点
 
@@ -17,8 +19,10 @@
 + [Citespace](http://cluster.cis.drexel.edu/~cchen/citespace/)
 + [Academic Tree](https://academictree.org/)
 + [Open Courses](https://libguides.humboldt.edu/openedu/kins)
++ [徐宥](https://blog.youxu.info/)
++ [刘未鹏]()
 
-## 大师
+## 大师与牛人
 
 - [Hassebq Qurenshi](https://haseebq.com/)
 - [Sebastian Ruder](https://ruder.io/)
@@ -32,6 +36,8 @@
 - [Bill Mei Book Shelf](https://billmei.net/)
 - [Lean Deep](https://leandeep.com/)
 - [陈中华](https://www.rzql.gov.cn/cont-225.html)
+- [Ed.THORP](http://www.edwardothorp.com/)
+- [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
 
 ## 学习如何学习
 + [Robert Bjork Learning and Forgetting Lab](https://bjorklab.psych.ucla.edu/research/)
@@ -139,7 +145,7 @@
 + [How to solve it](https://math.berkeley.edu/~gmelvin/polya.pdf)
 + [统计学好书推荐](https://www.zhihu.com/question/20757000)
 
-## Investment
+## FinancialEngineering
 
 + Nassim Taleb
   + [Statistical Consequences of Fat Tails](https://arxiv.org/abs/2001.10488)
@@ -147,6 +153,7 @@
   + [Black Swam](https://www.nateliason.com/notes/black-swan-nassim-nicholas-taleb)
   + [Anti-fragile](https://www.nateliason.com/notes/antifragile)
   + [Skin in the game](https://www.nateliason.com/notes/skin-in-the-game-by-nassim-taleb)
++ [量化金融的历史](https://book.douban.com/review/6289333/)
 + [制定并执行交易策略的六个步骤](https://us.etrade.com/knowledge/advanced-trading/how-to-trade-options)
 + [Summaries for Quantitative Finance](https://www.quantsummaries.com/)
 + [The Psychology of Money](https://mentalpivot.com/book-notes-the-psychology-of-money-by-morgan-housel/)
