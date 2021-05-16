@@ -6,7 +6,7 @@
 - [学习如何学习/认知心理学](#学习如何学习)
 - [How-to-knowledge/计算机科学](#计算机科学)
 - [杜克大学物理治疗博士课程目录](https://dpt.duhs.duke.edu/education/academics/curriculum)
-- [量化金融](FinancialEngineering)
+- [量化金融](#FinancialEngineering)
 
 ## 信息的制高点
 
