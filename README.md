@@ -131,6 +131,7 @@
 ## 计算机科学
 
 + [计算机自学指南](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
++ [MIT Missing Semester](https://missing.csail.mit.edu/2020/potpourri/)
 + [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc)
 + [https://haseebq.com/the-authoritative-guide-to-blockchain-development/](https://haseebq.com/the-authoritative-guide-to-blockchain-development/)
 + [Distributed System for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
