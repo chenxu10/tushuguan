@@ -185,4 +185,8 @@
 - [阴符经](https://zh.m.wikisource.org/zh-hans/%E9%BB%83%E5%B8%9D%E9%99%B0%E7%AC%A6%E7%B6%93)
 - [孙子兵法](https://zh.m.wikisource.org/zh/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95)
 - [战国策](http://www.cngdwx.com/yiwenshangxi/zhanguocebaihuayiwen/29276.html)
+- [九要论](https://baike.baidu.com/item/%E4%B9%9D%E8%A6%81%E8%AE%BA/360430)
+- [六合十大要](https://zh.m.wikisource.org/zh-hans/%E5%85%AD%E5%90%88%E5%8D%81%E5%A4%A7%E8%A6%81%E5%BA%8F)
 
++ [曹继武十法摘要](https://zhuanlan.zhihu.com/p/342929654)
++ [内功四经](https://gushu.net.cn/guji/%E9%81%93%E8%97%8F/%E8%97%8F%E5%A4%96/%E5%86%85%E5%8A%9F%E5%9B%9B%E7%BB%8F.html)
