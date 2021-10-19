@@ -13,7 +13,7 @@
 - [玩数学](http://www.cut-the-knot.org/)
 
 ## 学习如何学习
-+ [知己知彼]()
++ [知己知彼](https://github.com/chenxu10/tushuguan/blob/master/zhijizhibi.md)
 
 ## 信息的制高点
 
