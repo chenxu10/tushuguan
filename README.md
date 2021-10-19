@@ -1,6 +1,8 @@
 # My Kingdom
 
 ## 目录
+- [学习如何学习](#学习如何学习)
+- [如何解决问题](#如何解决问题)
 - [信息的制高点](#信息的制高点)
 - [大师与牛人](#大师与牛人)
 - [学习如何学习/认知心理学](#学习如何学习)
@@ -9,6 +11,9 @@
 - [量化金融](#FinancialEngineering)
 - [区块链与数字货币](https://haseebq.com/the-authoritative-guide-to-blockchain-development/)
 - [玩数学](http://www.cut-the-knot.org/)
+
+## 学习如何学习
++ [知己知彼]()
 
 ## 信息的制高点
 
