@@ -14,6 +14,8 @@
 
 ## 学习如何学习
 + [知己知彼](https://github.com/chenxu10/tushuguan/blob/master/zhijizhibi.md)
++ [Andrew Ng on How to Read Research Papers](https://crossminds.ai/video/andrew-ng-how-to-read-research-papers-and-machine-learning-career-advice-600242af495ecadbf27b382e/)
+  + 主题阅读法——Conclusion/Introduction/Figure先行——数学和代码跟上——问自己问题(Author accomplish, elements, what you can use, what other references you should use)
 
 ## 信息的制高点
 
