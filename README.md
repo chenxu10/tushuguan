@@ -17,10 +17,13 @@
 + [学习如何搜索](google.com/advanced_search)
 + [Andrew Ng on How to Read Research Papers](https://crossminds.ai/video/andrew-ng-how-to-read-research-papers-and-machine-learning-career-advice-600242af495ecadbf27b382e/)
   + 主题阅读法——Conclusion/Introduction/Figure先行——数学和代码跟上——问自己问题(Author accomplish, elements, what you can use, what other references you should use)
++ [How to write readable code](https://gist.github.com/viphat/7f883a18733ae5a7ebe45e74c348dbc0#file-the-art-of-readable-code-md)
 
 ## 信息的制高点
 
 + [Scientometrics](https://www.youtube.com/watch?v=GW4s58u8PZo)
++ [免费的图书下载网站1](https://booksvooks.com/)
++ [免费的图书下载网站2](https://1lib.us/)
 + [附近的图书馆](https://www.worldcat.org/)
 + [陌生世界的搜索引钥匙](https://github.com/chenxu10/Tushuguan/blob/master/Meta/key.md)
 + [How to write](https://github.com/chenxu10/Tushuguan/blob/master/Meta/write.md)
