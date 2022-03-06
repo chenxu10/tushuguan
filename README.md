@@ -21,9 +21,10 @@
 
 ## 信息的制高点
 
++ [读书老师推荐书籍](https://mostrecommendedbooks.com/)
 + [Scientometrics](https://www.youtube.com/watch?v=GW4s58u8PZo)
 + [免费的图书下载网站1](https://booksvooks.com/)
-+ [免费的图书下载网站2](https://1lib.us/)
++ [免费的图书下载网站2](http://index-of.es/)
 + [附近的图书馆](https://www.worldcat.org/)
 + [陌生世界的搜索引钥匙](https://github.com/chenxu10/Tushuguan/blob/master/Meta/key.md)
 + [How to write](https://github.com/chenxu10/Tushuguan/blob/master/Meta/write.md)
